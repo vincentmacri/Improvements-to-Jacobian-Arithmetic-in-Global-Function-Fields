@@ -1,6 +1,7 @@
 Source code for the paper *Improvements to Jacobian Arithmetic in Global Function Fields*.
 This repo is a custom fork of Sage.
-Relevant files for the paper are in the `testing` directory.
+Relevant testing files for the paper are in the `testing` directory.
+Jacobian arithmetic is implemented in the directory `src/sage/rings/function_field`.
 
 ---
 
