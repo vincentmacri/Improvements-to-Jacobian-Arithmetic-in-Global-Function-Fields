@@ -1,3 +1,9 @@
+Source code for the paper *Improvements to Jacobian Arithmetic in Global Function Fields*.
+This repo is a custom fork of Sage.
+Relevant files for the paper are in the `testing` directory.
+
+---
+
 <div>
 <a href="https://sagemath.org">
   <picture>
