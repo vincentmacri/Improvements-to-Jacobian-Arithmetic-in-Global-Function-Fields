@@ -1,11 +1,10 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
-title: SageMath
-abstract: SageMath is a free open-source mathematics software system.
+title: Improvements to Jacobian Arithmetic in Global Function Fields
 authors:
-- name: "The SageMath Developers"
-version: 10.9.beta7
-doi: 10.5281/zenodo.8042260
-date-released: 2026-02-25
-repository-code: "https://github.com/sagemath/sage"
-url: "https://www.sagemath.org/"
+- family-names: "Macri"
+  given-names: "Vincent"
+  orcid: "https://orcid.org/0009-0000-5233-7658"
+version: 1.0
+date-released: 2026-04-10
+repository-code: "https://github.com/vincentmacri/Improvements-to-Jacobian-Arithmetic-in-Global-Function-Fields"
